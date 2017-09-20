@@ -1,0 +1,30 @@
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\bin\Debug\Converter.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\Converter.InchesToMetricForm.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\Converter.MainForm.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\Converter.MetersToEnglishForm.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\Converter.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\Converter.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\Converter.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Converter\Converter\obj\x86\Debug\Converter.pdb
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.pdb
+D:\sovb12\Chapt_07\examples\Converter\Converter\obj\x86\Debug\Converter.exe
+D:\sovb12\Chapt_07\examples\Converter\Converter\obj\x86\Debug\Converter.xml
+D:\sovb12\Chapt_07\examples\Converter\Converter\obj\x86\Debug\Converter.pdb
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.exe
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.xml
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.pdb
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\bin\Debug\Converter.exe
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\bin\Debug\Converter.pdb
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\bin\Debug\Converter.xml
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.InchesToMetricForm.resources
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.MainForm.resources
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.MetersToEnglishForm.resources
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.Resources.resources
+D:\sovb12\Student Sample Programs\Chap7\Converter\Converter\obj\x86\Debug\Converter.vbproj.GenerateResource.Cache

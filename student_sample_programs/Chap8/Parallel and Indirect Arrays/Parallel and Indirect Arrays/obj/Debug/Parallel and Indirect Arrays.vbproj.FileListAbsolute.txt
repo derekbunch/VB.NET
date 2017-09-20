@@ -1,0 +1,20 @@
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\bin\Debug\Parallel and Indirect Arrays.exe.config
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\bin\Debug\Parallel and Indirect Arrays.exe
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\bin\Debug\Parallel and Indirect Arrays.pdb
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\bin\Debug\Parallel and Indirect Arrays.xml
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel_and_Indirect_Arrays.Form1.resources
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel_and_Indirect_Arrays.Resources.resources
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel and Indirect Arrays.vbproj.GenerateResource.Cache
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel and Indirect Arrays.exe
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel and Indirect Arrays.xml
+D:\sovb12\Student Sample Programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel and Indirect Arrays.pdb
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\bin\Debug\Parallel and Indirect Arrays.exe.config
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel and Indirect Arrays.exe
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\bin\Debug\Parallel and Indirect Arrays.exe
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\bin\Debug\Parallel and Indirect Arrays.pdb
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\bin\Debug\Parallel and Indirect Arrays.xml
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel_and_Indirect_Arrays.Form1.resources
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel_and_Indirect_Arrays.Resources.resources
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel and Indirect Arrays.vbproj.GenerateResource.Cache
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel and Indirect Arrays.xml
+F:\student_sample_programs\Chap8\Parallel and Indirect Arrays\Parallel and Indirect Arrays\obj\Debug\Parallel and Indirect Arrays.pdb

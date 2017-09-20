@@ -1,0 +1,29 @@
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\bin\Debug\Sales Data.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\bin\Debug\Sales Data.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\bin\Debug\Sales Data.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\obj\x86\Debug\Sales_Data.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\obj\x86\Debug\Sales_Data.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\obj\x86\Debug\Sales Data.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\obj\x86\Debug\Sales Data.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Sales Data\Sales Data\obj\x86\Debug\Sales Data.pdb
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.pdb
+D:\sovb12\Chapt_08\examples\Sales Data\Sales Data\obj\x86\Debug\Sales Data.exe
+D:\sovb12\Chapt_08\examples\Sales Data\Sales Data\obj\x86\Debug\Sales Data.xml
+D:\sovb12\Chapt_08\examples\Sales Data\Sales Data\obj\x86\Debug\Sales Data.pdb
+D:\sovb12\Student Sample Programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.exe
+D:\sovb12\Student Sample Programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.xml
+D:\sovb12\Student Sample Programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.pdb
+F:\student_sample_programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.exe
+F:\student_sample_programs\Chap8\Sales Data\Sales Data\bin\Debug\Sales Data.exe
+F:\student_sample_programs\Chap8\Sales Data\Sales Data\bin\Debug\Sales Data.pdb
+F:\student_sample_programs\Chap8\Sales Data\Sales Data\bin\Debug\Sales Data.xml
+F:\student_sample_programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales_Data.Form1.resources
+F:\student_sample_programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales_Data.Resources.resources
+F:\student_sample_programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.vbproj.GenerateResource.Cache
+F:\student_sample_programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.xml
+F:\student_sample_programs\Chap8\Sales Data\Sales Data\obj\x86\Debug\Sales Data.pdb

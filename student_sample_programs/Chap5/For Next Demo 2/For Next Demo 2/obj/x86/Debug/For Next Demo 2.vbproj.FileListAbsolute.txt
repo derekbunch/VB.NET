@@ -1,0 +1,28 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\bin\Debug\For Next Demo 2.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\bin\Debug\For Next Demo 2.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\bin\Debug\For Next Demo 2.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\obj\x86\Debug\For_Next_Demo_2.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\obj\x86\Debug\For_Next_Demo_2.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\obj\x86\Debug\For Next Demo 2.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\obj\x86\Debug\For Next Demo 2.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\For Next Demo 2\obj\x86\Debug\For Next Demo 2.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For Next Demo 2.exe
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For Next Demo 2.xml
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For Next Demo 2.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\bin\Debug\For Next Demo 2.exe
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\bin\Debug\For Next Demo 2.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\bin\Debug\For Next Demo 2.xml
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For_Next_Demo_2.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For_Next_Demo_2.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\For Next Demo 2\For Next Demo 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap5\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For Next Demo 2.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap5\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For Next Demo 2.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap5\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For Next Demo 2.pdb
+D:\sovb12\Student Sample Programs\Chap5\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For Next Demo 2.exe
+D:\sovb12\Student Sample Programs\Chap5\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For Next Demo 2.xml
+D:\sovb12\Student Sample Programs\Chap5\For Next Demo 2\For Next Demo 2\obj\x86\Debug\For Next Demo 2.pdb

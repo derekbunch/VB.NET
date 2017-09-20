@@ -1,0 +1,28 @@
+D:\sovb12\Chapt_04\examples\Bobs Computers\Crazy Al\obj\x86\Debug\Crazy Al.exe
+D:\sovb12\Chapt_04\examples\Bobs Computers\Crazy Al\obj\x86\Debug\Crazy Al.xml
+D:\sovb12\Chapt_04\examples\Bobs Computers\Crazy Al\obj\x86\Debug\Crazy Al.pdb
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\obj\x86\Debug\Crazy Al.exe
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\obj\x86\Debug\Crazy Al.xml
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\obj\x86\Debug\Crazy Al.pdb
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\obj\x86\Debug\Crazy_Al.Form1.resources
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\obj\x86\Debug\Crazy_Al.Resources.resources
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\bin\Debug\Crazy Al.exe
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\bin\Debug\Crazy Al.pdb
+D:\sovb12\Chapt_04\examples\Bobs Computers\Bobs Computers\bin\Debug\Crazy Al.xml
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\obj\x86\Debug\Crazy Al.exe
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\obj\x86\Debug\Crazy Al.xml
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\obj\x86\Debug\Crazy Al.pdb
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\bin\Debug\Crazy Al.exe
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\bin\Debug\Crazy Al.pdb
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\bin\Debug\Crazy Al.xml
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\obj\x86\Debug\Crazy_Al.Form1.resources
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\obj\x86\Debug\Crazy_Al.Resources.resources
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_04\examples\Busy Bob\Bobs Computers\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\Chapt_04\examples\Crazy Al\Crazy Al\obj\x86\Debug\Crazy Al.exe
+D:\sovb12\Chapt_04\examples\Crazy Al\Crazy Al\obj\x86\Debug\Crazy Al.xml
+D:\sovb12\Chapt_04\examples\Crazy Al\Crazy Al\obj\x86\Debug\Crazy Al.pdb

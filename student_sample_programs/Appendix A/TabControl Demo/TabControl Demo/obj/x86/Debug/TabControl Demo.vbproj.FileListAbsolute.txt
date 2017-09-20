@@ -1,0 +1,17 @@
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\bin\Debug\TabControl Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\bin\Debug\TabControl Demo.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\bin\Debug\TabControl Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl_Demo.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl_Demo.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.pdb
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Student Sample Programs\Appendix A\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.exe
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Student Sample Programs\Appendix A\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.xml
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Student Sample Programs\Appendix A\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.pdb
+D:\sovb12\Student Sample Programs\Appendix A\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.exe
+D:\sovb12\Student Sample Programs\Appendix A\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.xml
+D:\sovb12\Student Sample Programs\Appendix A\TabControl Demo\TabControl Demo\obj\x86\Debug\TabControl Demo.pdb

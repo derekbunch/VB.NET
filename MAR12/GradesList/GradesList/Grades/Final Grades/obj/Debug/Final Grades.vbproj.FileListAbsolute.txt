@@ -1,0 +1,33 @@
+C:\Users\adb78\AppData\Local\Temporary Projects\Final Grades\bin\Debug\Final Grades.exe.config
+D:\VB1\Grades\Final Grades\bin\Debug\Final Grades.exe.config
+D:\VB1\Grades\Final Grades\bin\Debug\Final Grades.exe
+D:\VB1\Grades\Final Grades\bin\Debug\Final Grades.pdb
+D:\VB1\Grades\Final Grades\bin\Debug\Final Grades.xml
+D:\VB1\Grades\Final Grades\obj\Debug\Final_Grades.Form1.resources
+D:\VB1\Grades\Final Grades\obj\Debug\Final_Grades.Resources.resources
+D:\VB1\Grades\Final Grades\obj\Debug\Final Grades.vbproj.GenerateResource.Cache
+D:\VB1\Grades\Final Grades\obj\Debug\Final Grades.exe
+D:\VB1\Grades\Final Grades\obj\Debug\Final Grades.xml
+D:\VB1\Grades\Final Grades\obj\Debug\Final Grades.pdb
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\bin\Debug\Final Grades.exe.config
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\obj\Debug\Final Grades.exe
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\obj\Debug\Final Grades.xml
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\obj\Debug\Final Grades.pdb
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\bin\Debug\Final Grades.exe
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\bin\Debug\Final Grades.pdb
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\bin\Debug\Final Grades.xml
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\obj\Debug\Final_Grades.Form1.resources
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\obj\Debug\Final_Grades.Resources.resources
+C:\Users\ms06\Desktop\VB Grading folder\Grades\Grades\Final Grades\obj\Debug\Final Grades.vbproj.GenerateResource.Cache
+F:\VB Grading folder\Grades\Grades\Final Grades\bin\Debug\Final Grades.exe.config
+F:\VB Grading folder\Grades\Grades\Final Grades\obj\Debug\Final Grades.exe
+F:\VB Grading folder\Grades\Grades\Final Grades\obj\Debug\Final Grades.xml
+F:\VB Grading folder\Grades\Grades\Final Grades\obj\Debug\Final Grades.pdb
+F:\VB Grading folder\GradesList\Grades\Final Grades\bin\Debug\Final Grades.exe.config
+F:\VB Grading folder\GradesList\Grades\Final Grades\obj\Debug\Final Grades.exe
+F:\VB Grading folder\GradesList\Grades\Final Grades\obj\Debug\Final Grades.xml
+F:\VB Grading folder\GradesList\Grades\Final Grades\obj\Debug\Final Grades.pdb
+F:\MAR12\GradesList\GradesList\Grades\Final Grades\bin\Debug\Final Grades.exe.config
+F:\MAR12\GradesList\GradesList\Grades\Final Grades\obj\Debug\Final Grades.exe
+F:\MAR12\GradesList\GradesList\Grades\Final Grades\obj\Debug\Final Grades.xml
+F:\MAR12\GradesList\GradesList\Grades\Final Grades\obj\Debug\Final Grades.pdb

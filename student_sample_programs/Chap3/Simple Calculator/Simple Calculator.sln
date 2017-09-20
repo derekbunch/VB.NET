@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Simple Calculator", "Simple Calculator\Simple Calculator.vbproj", "{8BF986DA-3277-4C9F-AB09-092BDD2F3F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF986DA-3277-4C9F-AB09-092BDD2F3F01}.Debug|x86.ActiveCfg = Debug|x86
+		{8BF986DA-3277-4C9F-AB09-092BDD2F3F01}.Debug|x86.Build.0 = Debug|x86
+		{8BF986DA-3277-4C9F-AB09-092BDD2F3F01}.Release|x86.ActiveCfg = Release|x86
+		{8BF986DA-3277-4C9F-AB09-092BDD2F3F01}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

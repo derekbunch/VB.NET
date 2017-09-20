@@ -1,0 +1,35 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\bin\Debug\Format Demo.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\bin\Debug\Format Demo.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\bin\Debug\Format Demo.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\obj\x86\Debug\Format_Demo.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\obj\x86\Debug\Format_Demo.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\obj\x86\Debug\Format Demo.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\obj\x86\Debug\Format Demo.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Format Demo\obj\x86\Debug\Format Demo.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Format Demo\Format Demo\obj\x86\Debug\Format Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Format Demo\Format Demo\obj\x86\Debug\Format Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Format Demo\Format Demo\obj\x86\Debug\Format Demo.pdb
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap3\Format Demo\Format Demo\obj\x86\Debug\Format Demo.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap3\Format Demo\Format Demo\obj\x86\Debug\Format Demo.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap3\Format Demo\Format Demo\obj\x86\Debug\Format Demo.pdb
+D:\sovb12\Chapt_03\examples\Format Demo\Format Demo\obj\x86\Debug\Format Demo.exe
+D:\sovb12\Chapt_03\examples\Format Demo\Format Demo\obj\x86\Debug\Format Demo.xml
+D:\sovb12\Chapt_03\examples\Format Demo\Format Demo\obj\x86\Debug\Format Demo.pdb
+D:\sovb12\Chapt_03\examples\Format Demo\Format Demo\bin\Debug\Format Demo.exe
+D:\sovb12\Chapt_03\examples\Format Demo\Format Demo\bin\Debug\Format Demo.pdb
+D:\sovb12\Chapt_03\examples\Format Demo\Format Demo\bin\Debug\Format Demo.xml
+D:\sovb12\Chapt_03\examples\Format Demo\Format Demo\obj\x86\Debug\Format_Demo.Form1.resources
+D:\sovb12\Chapt_03\examples\Format Demo\Format Demo\obj\x86\Debug\Format_Demo.Resources.resources
+D:\sovb12\Chapt_03\examples\Format Demo\Format Demo\obj\x86\Debug\Format Demo.vbproj.GenerateResource.Cache
+D:\sovb12\Student Sample Programs\Chap3\Format Demo\Format Demo\obj\x86\Debug\Format Demo.exe
+D:\sovb12\Student Sample Programs\Chap3\Format Demo\Format Demo\obj\x86\Debug\Format Demo.xml
+D:\sovb12\Student Sample Programs\Chap3\Format Demo\Format Demo\obj\x86\Debug\Format Demo.pdb
+D:\sovb12\Student Sample Programs\Chap3\Format Demo\Format Demo\bin\Debug\Format Demo.exe
+D:\sovb12\Student Sample Programs\Chap3\Format Demo\Format Demo\bin\Debug\Format Demo.pdb
+D:\sovb12\Student Sample Programs\Chap3\Format Demo\Format Demo\bin\Debug\Format Demo.xml
+D:\sovb12\Student Sample Programs\Chap3\Format Demo\Format Demo\obj\x86\Debug\Format_Demo.Form1.resources
+D:\sovb12\Student Sample Programs\Chap3\Format Demo\Format Demo\obj\x86\Debug\Format_Demo.Resources.resources
+D:\sovb12\Student Sample Programs\Chap3\Format Demo\Format Demo\obj\x86\Debug\Format Demo.vbproj.GenerateResource.Cache

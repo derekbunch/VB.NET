@@ -1,0 +1,9 @@
+F:\student_sample_programs\Chap8\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe
+F:\student_sample_programs\Chap8\Seating Chart\Seating Chart\bin\Debug\Seating Chart.pdb
+F:\student_sample_programs\Chap8\Seating Chart\Seating Chart\bin\Debug\Seating Chart.xml
+F:\student_sample_programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Form1.resources
+F:\student_sample_programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Resources.resources
+F:\student_sample_programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.vbproj.GenerateResource.Cache
+F:\student_sample_programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+F:\student_sample_programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.xml
+F:\student_sample_programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb

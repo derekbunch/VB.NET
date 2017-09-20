@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "For Next Demo 2", "For Next Demo 2\For Next Demo 2.vbproj", "{6A74D27D-F04B-4DE5-B180-B8EF1374C920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A74D27D-F04B-4DE5-B180-B8EF1374C920}.Debug|x86.ActiveCfg = Debug|x86
+		{6A74D27D-F04B-4DE5-B180-B8EF1374C920}.Debug|x86.Build.0 = Debug|x86
+		{6A74D27D-F04B-4DE5-B180-B8EF1374C920}.Release|x86.ActiveCfg = Release|x86
+		{6A74D27D-F04B-4DE5-B180-B8EF1374C920}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

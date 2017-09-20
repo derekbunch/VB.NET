@@ -1,0 +1,34 @@
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\bin\Debug\Gross Pay.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\bin\Debug\Gross Pay.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\bin\Debug\Gross Pay.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\obj\x86\Debug\Gross_Pay.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\obj\x86\Debug\Gross_Pay.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.pdb
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap4\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap4\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap4\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.pdb
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.exe
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.xml
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.pdb
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\bin\Debug\Gross Pay.exe
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\bin\Debug\Gross Pay.pdb
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\bin\Debug\Gross Pay.xml
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\obj\x86\Debug\Gross_Pay.Form1.resources
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\obj\x86\Debug\Gross_Pay.Resources.resources
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_04\examples\Gross Pay\Gross Pay\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\Student Sample Programs\Chap4\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.exe
+D:\sovb12\Student Sample Programs\Chap4\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.xml
+D:\sovb12\Student Sample Programs\Chap4\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.pdb
+D:\sovb12\Student Sample Programs\Chap4\Gross Pay\Gross Pay\bin\Debug\Gross Pay.exe
+D:\sovb12\Student Sample Programs\Chap4\Gross Pay\Gross Pay\bin\Debug\Gross Pay.pdb
+D:\sovb12\Student Sample Programs\Chap4\Gross Pay\Gross Pay\bin\Debug\Gross Pay.xml
+D:\sovb12\Student Sample Programs\Chap4\Gross Pay\Gross Pay\obj\x86\Debug\Gross_Pay.Form1.resources
+D:\sovb12\Student Sample Programs\Chap4\Gross Pay\Gross Pay\obj\x86\Debug\Gross_Pay.Resources.resources
+D:\sovb12\Student Sample Programs\Chap4\Gross Pay\Gross Pay\obj\x86\Debug\Gross Pay.vbproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ArrayCopy", "ArrayCopy.vbproj", "{A23ADA0F-374A-4BDD-8CBF-D0A2D0463156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23ADA0F-374A-4BDD-8CBF-D0A2D0463156}.Debug|x86.ActiveCfg = Debug|x86
+		{A23ADA0F-374A-4BDD-8CBF-D0A2D0463156}.Debug|x86.Build.0 = Debug|x86
+		{A23ADA0F-374A-4BDD-8CBF-D0A2D0463156}.Release|x86.ActiveCfg = Release|x86
+		{A23ADA0F-374A-4BDD-8CBF-D0A2D0463156}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

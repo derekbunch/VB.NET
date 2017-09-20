@@ -1,0 +1,10 @@
+F:\MAR24\ListProc1\ListProc1\bin\Debug\ListProc1.exe.config
+F:\MAR24\ListProc1\ListProc1\bin\Debug\ListProc1.exe
+F:\MAR24\ListProc1\ListProc1\bin\Debug\ListProc1.pdb
+F:\MAR24\ListProc1\ListProc1\bin\Debug\ListProc1.xml
+F:\MAR24\ListProc1\ListProc1\obj\Debug\ListProc1.Form1.resources
+F:\MAR24\ListProc1\ListProc1\obj\Debug\ListProc1.Resources.resources
+F:\MAR24\ListProc1\ListProc1\obj\Debug\ListProc1.vbproj.GenerateResource.Cache
+F:\MAR24\ListProc1\ListProc1\obj\Debug\ListProc1.exe
+F:\MAR24\ListProc1\ListProc1\obj\Debug\ListProc1.xml
+F:\MAR24\ListProc1\ListProc1\obj\Debug\ListProc1.pdb

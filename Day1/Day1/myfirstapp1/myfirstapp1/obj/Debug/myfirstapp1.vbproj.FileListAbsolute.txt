@@ -1,0 +1,14 @@
+E:\Day1\myfirstapp1\myfirstapp1\bin\Debug\myfirstapp1.exe.config
+E:\Day1\myfirstapp1\myfirstapp1\bin\Debug\myfirstapp1.exe
+E:\Day1\myfirstapp1\myfirstapp1\bin\Debug\myfirstapp1.pdb
+E:\Day1\myfirstapp1\myfirstapp1\bin\Debug\myfirstapp1.xml
+E:\Day1\myfirstapp1\myfirstapp1\obj\Debug\myfirstapp1.Form1.resources
+E:\Day1\myfirstapp1\myfirstapp1\obj\Debug\myfirstapp1.Resources.resources
+E:\Day1\myfirstapp1\myfirstapp1\obj\Debug\myfirstapp1.vbproj.GenerateResource.Cache
+E:\Day1\myfirstapp1\myfirstapp1\obj\Debug\myfirstapp1.exe
+E:\Day1\myfirstapp1\myfirstapp1\obj\Debug\myfirstapp1.xml
+E:\Day1\myfirstapp1\myfirstapp1\obj\Debug\myfirstapp1.pdb
+F:\Day1\Day1\myfirstapp1\myfirstapp1\bin\Debug\myfirstapp1.exe.config
+F:\Day1\Day1\myfirstapp1\myfirstapp1\obj\Debug\myfirstapp1.exe
+F:\Day1\Day1\myfirstapp1\myfirstapp1\obj\Debug\myfirstapp1.xml
+F:\Day1\Day1\myfirstapp1\myfirstapp1\obj\Debug\myfirstapp1.pdb

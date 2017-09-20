@@ -1,0 +1,12 @@
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\bin\Debug\menuapp.exe.config
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\bin\Debug\menuapp.exe
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\bin\Debug\menuapp.pdb
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\bin\Debug\menuapp.xml
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\obj\Debug\menuapp.Form1.resources
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\obj\Debug\menuapp.Resources.resources
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\obj\Debug\menuapp.vbproj.GenerateResource.Cache
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\obj\Debug\menuapp.exe
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\obj\Debug\menuapp.xml
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\obj\Debug\menuapp.pdb
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\obj\Debug\menuapp.Dineinmenu.resources
+F:\student_sample_programs\Chap7\appth9bmenus\menuapp\menuapp\obj\Debug\menuapp.carryout.resources

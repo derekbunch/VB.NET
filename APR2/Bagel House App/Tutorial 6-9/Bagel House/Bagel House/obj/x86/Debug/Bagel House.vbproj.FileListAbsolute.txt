@@ -1,0 +1,32 @@
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\bin\Debug\Bagel House.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\bin\Debug\Bagel House.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\bin\Debug\Bagel House.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\obj\x86\Debug\Bagel_House.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\obj\x86\Debug\Bagel_House.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\obj\x86\Debug\Bagel House.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\obj\x86\Debug\Bagel House.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Bagel House\Bagel House\obj\x86\Debug\Bagel House.pdb
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.exe
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.xml
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.pdb
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-9\Bagel House\Bagel House\bin\Debug\Bagel House.exe
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-9\Bagel House\Bagel House\bin\Debug\Bagel House.pdb
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-9\Bagel House\Bagel House\bin\Debug\Bagel House.xml
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel_House.Form1.resources
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel_House.Resources.resources
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.vbproj.GenerateResource.Cache
+D:\sovb12\instructor\finished_tutorials\ch06\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.exe
+D:\sovb12\instructor\finished_tutorials\ch06\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.xml
+D:\sovb12\instructor\finished_tutorials\ch06\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.pdb
+D:\sovb12\instructor\finished_tutorials\ch06\Tutorial 6-9\Bagel House\Bagel House\bin\Debug\Bagel House.exe
+D:\sovb12\instructor\finished_tutorials\ch06\Tutorial 6-9\Bagel House\Bagel House\bin\Debug\Bagel House.pdb
+D:\sovb12\instructor\finished_tutorials\ch06\Tutorial 6-9\Bagel House\Bagel House\bin\Debug\Bagel House.xml
+D:\sovb12\instructor\finished_tutorials\ch06\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel_House.Form1.resources
+D:\sovb12\instructor\finished_tutorials\ch06\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel_House.Resources.resources
+D:\sovb12\instructor\finished_tutorials\ch06\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.vbproj.GenerateResource.Cache
+F:\APR2\Bagel House App\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.exe
+F:\APR2\Bagel House App\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.xml
+F:\APR2\Bagel House App\Tutorial 6-9\Bagel House\Bagel House\obj\x86\Debug\Bagel House.pdb

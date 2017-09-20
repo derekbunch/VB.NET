@@ -1,0 +1,20 @@
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\bin\Debug\Stadium Seating Form.exe.config
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\bin\Debug\Stadium Seating Form.exe.config
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\bin\Debug\Stadium Seating Form.exe
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\bin\Debug\Stadium Seating Form.pdb
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\bin\Debug\Stadium Seating Form.xml
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium_Seating_Form.Form1.resources
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium_Seating_Form.Resources.resources
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium Seating Form.vbproj.GenerateResource.Cache
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium Seating Form.exe
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium Seating Form.xml
+F:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium Seating Form.pdb
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium Seating Form.exe
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium Seating Form.xml
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium Seating Form.pdb
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium_Seating_Form.Form1.resources
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium_Seating_Form.Resources.resources
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\obj\Debug\Stadium Seating Form.vbproj.GenerateResource.Cache
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\bin\Debug\Stadium Seating Form.exe
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\bin\Debug\Stadium Seating Form.pdb
+E:\FEB10\Stadium Seating Form\Stadium Seating Form\bin\Debug\Stadium Seating Form.xml

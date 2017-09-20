@@ -1,0 +1,12 @@
+D:\sovb12\Chapt_09\examples\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.exe
+D:\sovb12\Chapt_09\examples\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.pdb
+D:\sovb12\Chapt_09\examples\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.xml
+D:\sovb12\Chapt_09\examples\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Form1.resources
+D:\sovb12\Chapt_09\examples\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Resources.resources
+D:\sovb12\Chapt_09\examples\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.vbproj.GenerateResource.Cache
+D:\sovb12\Chapt_09\examples\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+D:\sovb12\Chapt_09\examples\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+D:\sovb12\Chapt_09\examples\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb
+D:\sovb12\Student Sample Programs\Chap9\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+D:\sovb12\Student Sample Programs\Chap9\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+D:\sovb12\Student Sample Programs\Chap9\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb

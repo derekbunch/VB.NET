@@ -1,0 +1,14 @@
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\bin\Debug\LINQ Example.exe
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\bin\Debug\LINQ Example.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\bin\Debug\LINQ Example.xml
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\obj\x86\Debug\LINQ_Example.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\obj\x86\Debug\LINQ_Example.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\obj\x86\Debug\LINQ Example.exe
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\obj\x86\Debug\LINQ Example.xml
+C:\Users\Chris\documents\visual studio 10\Projects\LINQ Example\LINQ Example\obj\x86\Debug\LINQ Example.pdb
+D:\sovb12\Student Sample Programs\Chap10\LINQ Example\LINQ Example\obj\x86\Debug\LINQ Example.exe
+D:\sovb12\Student Sample Programs\Chap10\LINQ Example\LINQ Example\obj\x86\Debug\LINQ Example.xml
+D:\sovb12\Student Sample Programs\Chap10\LINQ Example\LINQ Example\obj\x86\Debug\LINQ Example.pdb

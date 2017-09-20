@@ -1,0 +1,5 @@
+F:\FEB17\Grades\Grades\bin\Debug\Grades.exe.config
+F:\FEB17\Grade (Homemade)\Grades\bin\Debug\Grades.exe.config
+F:\FEB17\Grade (Homemade)\Grades\obj\Debug\Grades.Form1.resources
+F:\FEB17\Grade (Homemade)\Grades\obj\Debug\Grades.Resources.resources
+F:\FEB17\Grade (Homemade)\Grades\obj\Debug\Grades.vbproj.GenerateResource.Cache

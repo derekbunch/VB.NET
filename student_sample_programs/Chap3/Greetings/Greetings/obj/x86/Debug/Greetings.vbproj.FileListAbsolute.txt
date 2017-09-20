@@ -1,0 +1,26 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\bin\Debug\Greetings.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\bin\Debug\Greetings.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\bin\Debug\Greetings.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\obj\x86\Debug\Greetings.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\obj\x86\Debug\Greetings.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\obj\x86\Debug\Greetings.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\obj\x86\Debug\Greetings.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Greetings\obj\x86\Debug\Greetings.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Greetings\Greetings\obj\x86\Debug\Greetings.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Greetings\Greetings\obj\x86\Debug\Greetings.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Greetings\Greetings\obj\x86\Debug\Greetings.pdb
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap3\Greetings\Greetings\obj\x86\Debug\Greetings.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap3\Greetings\Greetings\obj\x86\Debug\Greetings.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap3\Greetings\Greetings\obj\x86\Debug\Greetings.pdb
+D:\sovb12\Student Sample Programs\Chap3\Greetings\Greetings\obj\x86\Debug\Greetings.exe
+D:\sovb12\Student Sample Programs\Chap3\Greetings\Greetings\obj\x86\Debug\Greetings.xml
+D:\sovb12\Student Sample Programs\Chap3\Greetings\Greetings\obj\x86\Debug\Greetings.pdb
+D:\sovb12\Student Sample Programs\Chap3\Greetings\Greetings\bin\Debug\Greetings.exe
+D:\sovb12\Student Sample Programs\Chap3\Greetings\Greetings\bin\Debug\Greetings.pdb
+D:\sovb12\Student Sample Programs\Chap3\Greetings\Greetings\bin\Debug\Greetings.xml
+D:\sovb12\Student Sample Programs\Chap3\Greetings\Greetings\obj\x86\Debug\Greetings.Form1.resources
+D:\sovb12\Student Sample Programs\Chap3\Greetings\Greetings\obj\x86\Debug\Greetings.Resources.resources
+D:\sovb12\Student Sample Programs\Chap3\Greetings\Greetings\obj\x86\Debug\Greetings.vbproj.GenerateResource.Cache

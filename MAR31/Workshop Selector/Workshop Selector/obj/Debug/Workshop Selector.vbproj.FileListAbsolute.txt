@@ -1,0 +1,10 @@
+F:\MAR31\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe.config
+F:\MAR31\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+F:\MAR31\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+F:\MAR31\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.xml
+F:\MAR31\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Form1.resources
+F:\MAR31\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Resources.resources
+F:\MAR31\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.vbproj.GenerateResource.Cache
+F:\MAR31\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.exe
+F:\MAR31\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.xml
+F:\MAR31\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.pdb

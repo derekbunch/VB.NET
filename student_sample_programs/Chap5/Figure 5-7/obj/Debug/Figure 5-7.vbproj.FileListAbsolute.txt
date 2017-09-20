@@ -1,0 +1,20 @@
+D:\sovb12\Chapt_05\examples\Figure 5-7\bin\Debug\Figure 5-7.exe.config
+D:\sovb12\Chapt_05\examples\Figure 5-7\bin\Debug\Figure 5-7.exe
+D:\sovb12\Chapt_05\examples\Figure 5-7\bin\Debug\Figure 5-7.pdb
+D:\sovb12\Chapt_05\examples\Figure 5-7\bin\Debug\Figure 5-7.xml
+D:\sovb12\Chapt_05\examples\Figure 5-7\obj\Debug\Figure_5_7.Form1.resources
+D:\sovb12\Chapt_05\examples\Figure 5-7\obj\Debug\Figure_5_7.Resources.resources
+D:\sovb12\Chapt_05\examples\Figure 5-7\obj\Debug\Figure 5-7.vbproj.GenerateResource.Cache
+D:\sovb12\Chapt_05\examples\Figure 5-7\obj\Debug\Figure 5-7.exe
+D:\sovb12\Chapt_05\examples\Figure 5-7\obj\Debug\Figure 5-7.xml
+D:\sovb12\Chapt_05\examples\Figure 5-7\obj\Debug\Figure 5-7.pdb
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\bin\Debug\Figure 5-7.exe.config
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\obj\Debug\Figure 5-7.exe
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\obj\Debug\Figure 5-7.xml
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\obj\Debug\Figure 5-7.pdb
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\bin\Debug\Figure 5-7.exe
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\bin\Debug\Figure 5-7.pdb
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\bin\Debug\Figure 5-7.xml
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\obj\Debug\Figure_5_7.Form1.resources
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\obj\Debug\Figure_5_7.Resources.resources
+D:\sovb12\Student Sample Programs\Chap5\Figure 5-7\obj\Debug\Figure 5-7.vbproj.GenerateResource.Cache

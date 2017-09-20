@@ -1,0 +1,29 @@
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.xml
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Form1.resources
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Resources.resources
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.exe
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.xml
+D:\sovb12\Chapt_03\examples\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.pdb
+D:\sovb12\Student Sample Programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.exe
+D:\sovb12\Student Sample Programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.xml
+D:\sovb12\Student Sample Programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.pdb
+D:\sovb12\Student Sample Programs\Chap3\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+D:\sovb12\Student Sample Programs\Chap3\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+D:\sovb12\Student Sample Programs\Chap3\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.xml
+D:\sovb12\Student Sample Programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Form1.resources
+D:\sovb12\Student Sample Programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Resources.resources
+D:\sovb12\Student Sample Programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.vbproj.GenerateResource.Cache
+E:\student_sample_programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.exe
+E:\student_sample_programs\Chap3\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+E:\student_sample_programs\Chap3\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+E:\student_sample_programs\Chap3\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.xml
+E:\student_sample_programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Form1.resources
+E:\student_sample_programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Resources.resources
+E:\student_sample_programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.vbproj.GenerateResource.Cache
+E:\student_sample_programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.xml
+E:\student_sample_programs\Chap3\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.pdb

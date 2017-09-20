@@ -1,0 +1,26 @@
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal_ByRef_Demo.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal_ByRef_Demo.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.pdb
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap6\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap6\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap6\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.pdb
+D:\sovb12\Chapt_06\examples\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.exe
+D:\sovb12\Chapt_06\examples\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.xml
+D:\sovb12\Chapt_06\examples\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.pdb
+D:\sovb12\Chapt_06\examples\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.exe
+D:\sovb12\Chapt_06\examples\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.pdb
+D:\sovb12\Chapt_06\examples\ByVal ByRef Demo\ByVal ByRef Demo\bin\Debug\ByVal ByRef Demo.xml
+D:\sovb12\Chapt_06\examples\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal_ByRef_Demo.Form1.resources
+D:\sovb12\Chapt_06\examples\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal_ByRef_Demo.Resources.resources
+D:\sovb12\Chapt_06\examples\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.vbproj.GenerateResource.Cache
+D:\sovb12\Student Sample Programs\Chap6\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.exe
+D:\sovb12\Student Sample Programs\Chap6\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.xml
+D:\sovb12\Student Sample Programs\Chap6\ByVal ByRef Demo\ByVal ByRef Demo\obj\x86\Debug\ByVal ByRef Demo.pdb

@@ -1,0 +1,34 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\bin\Debug\Multiple Exceptions.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\bin\Debug\Multiple Exceptions.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\bin\Debug\Multiple Exceptions.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\obj\x86\Debug\Multiple_Exceptions.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\obj\x86\Debug\Multiple_Exceptions.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.pdb
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.exe
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.xml
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.pdb
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\bin\Debug\Multiple Exceptions.exe
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\bin\Debug\Multiple Exceptions.pdb
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\bin\Debug\Multiple Exceptions.xml
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple_Exceptions.Form1.resources
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple_Exceptions.Resources.resources
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_03\examples\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\Student Sample Programs\Chap3\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.exe
+D:\sovb12\Student Sample Programs\Chap3\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.xml
+D:\sovb12\Student Sample Programs\Chap3\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.pdb
+D:\sovb12\Student Sample Programs\Chap3\Multiple Exceptions\Multiple Exceptions\bin\Debug\Multiple Exceptions.exe
+D:\sovb12\Student Sample Programs\Chap3\Multiple Exceptions\Multiple Exceptions\bin\Debug\Multiple Exceptions.pdb
+D:\sovb12\Student Sample Programs\Chap3\Multiple Exceptions\Multiple Exceptions\bin\Debug\Multiple Exceptions.xml
+D:\sovb12\Student Sample Programs\Chap3\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple_Exceptions.Form1.resources
+D:\sovb12\Student Sample Programs\Chap3\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple_Exceptions.Resources.resources
+D:\sovb12\Student Sample Programs\Chap3\Multiple Exceptions\Multiple Exceptions\obj\x86\Debug\Multiple Exceptions.vbproj.GenerateResource.Cache

@@ -1,0 +1,40 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\bin\Debug\Lights.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\bin\Debug\Lights.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\bin\Debug\Lights.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\obj\x86\Debug\Lights.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\obj\x86\Debug\Lights.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\obj\x86\Debug\Lights.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Lights\Lights\obj\x86\Debug\Lights.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.xml
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\bin\Debug\Lights.exe
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\bin\Debug\Lights.pdb
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\bin\Debug\Lights.xml
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.Resources.resources
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 06\Tutorial 6-2\Lights\Lights\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.exe
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.xml
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.pdb
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-2\Lights\Lights\bin\Debug\Lights.exe
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-2\Lights\Lights\bin\Debug\Lights.pdb
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-2\Lights\Lights\bin\Debug\Lights.xml
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.Resources.resources
+D:\sovb12\Chapt_06\tutorials\Tutorial 6-2\Lights\Lights\obj\x86\Debug\Lights.vbproj.GenerateResource.Cache
+D:\sovb12\Chapt_06\examples\Lights\Lights\Lights\obj\x86\Debug\Lights.exe
+D:\sovb12\Chapt_06\examples\Lights\Lights\Lights\obj\x86\Debug\Lights.xml
+D:\sovb12\Chapt_06\examples\Lights\Lights\Lights\obj\x86\Debug\Lights.pdb
+D:\sovb12\Student Sample Programs\Chap6\Lights\Lights\Lights\obj\x86\Debug\Lights.exe
+D:\sovb12\Student Sample Programs\Chap6\Lights\Lights\Lights\obj\x86\Debug\Lights.xml
+D:\sovb12\Student Sample Programs\Chap6\Lights\Lights\Lights\obj\x86\Debug\Lights.pdb

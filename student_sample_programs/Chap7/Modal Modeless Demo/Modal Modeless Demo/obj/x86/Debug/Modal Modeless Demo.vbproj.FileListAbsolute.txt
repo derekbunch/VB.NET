@@ -1,0 +1,23 @@
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\bin\Debug\Modal Modeless Demo.exe
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\bin\Debug\Modal Modeless Demo.pdb
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\bin\Debug\Modal Modeless Demo.xml
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal_Modeless_Demo.MainForm.resources
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal_Modeless_Demo.MessageForm.resources
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal_Modeless_Demo.Resources.resources
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.vbproj.GenerateResource.Cache
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.exe
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.xml
+D:\sovb12\Chapt_07\examples\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.pdb
+D:\sovb12\Student Sample Programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.exe
+D:\sovb12\Student Sample Programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.xml
+D:\sovb12\Student Sample Programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.pdb
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.exe
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\bin\Debug\Modal Modeless Demo.exe
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\bin\Debug\Modal Modeless Demo.pdb
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\bin\Debug\Modal Modeless Demo.xml
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal_Modeless_Demo.MainForm.resources
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal_Modeless_Demo.MessageForm.resources
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal_Modeless_Demo.Resources.resources
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.vbproj.GenerateResource.Cache
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.xml
+F:\student_sample_programs\Chap7\Modal Modeless Demo\Modal Modeless Demo\obj\x86\Debug\Modal Modeless Demo.pdb

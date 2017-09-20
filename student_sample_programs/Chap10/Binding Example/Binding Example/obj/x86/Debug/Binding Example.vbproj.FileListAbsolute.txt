@@ -1,0 +1,34 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\bin\Debug\Company.mdf
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\bin\Debug\Company_log.ldf
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\bin\Debug\Binding Example.exe.config
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\bin\Debug\Binding Example.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\bin\Debug\Binding Example.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\bin\Debug\Binding Example.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\obj\x86\Debug\Binding_Example.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\obj\x86\Debug\Binding_Example.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\obj\x86\Debug\Binding Example.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\obj\x86\Debug\Binding Example.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Binding Example\obj\x86\Debug\Binding Example.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Binding Example\Binding Example\bin\Debug\Binding Example.exe.config
+C:\Users\Chris\documents\visual studio 10\Projects\Binding Example\Binding Example\obj\x86\Debug\Binding Example.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Binding Example\Binding Example\obj\x86\Debug\Binding Example.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Binding Example\Binding Example\obj\x86\Debug\Binding Example.pdb
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\bin\Debug\Binding Example.exe.config
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\obj\x86\Debug\Binding Example.exe
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\obj\x86\Debug\Binding Example.xml
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\obj\x86\Debug\Binding Example.pdb
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\bin\Debug\Company.mdf
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\bin\Debug\Company_log.ldf
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\bin\Debug\Binding Example.exe
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\bin\Debug\Binding Example.pdb
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\bin\Debug\Binding Example.xml
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\obj\x86\Debug\Binding_Example.Form1.resources
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\obj\x86\Debug\Binding_Example.Resources.resources
+D:\sovb12\Chapt_10\ch10_examples\Binding Example\Binding Example\obj\x86\Debug\Binding Example.vbproj.GenerateResource.Cache
+D:\sovb12\Student Sample Programs\Chap10\Binding Example\Binding Example\bin\Debug\Binding Example.exe.config
+D:\sovb12\Student Sample Programs\Chap10\Binding Example\Binding Example\obj\x86\Debug\Binding Example.exe
+D:\sovb12\Student Sample Programs\Chap10\Binding Example\Binding Example\obj\x86\Debug\Binding Example.xml
+D:\sovb12\Student Sample Programs\Chap10\Binding Example\Binding Example\obj\x86\Debug\Binding Example.pdb

@@ -1,0 +1,18 @@
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\bin\Debug\Do While Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\bin\Debug\Do While Demo.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\bin\Debug\Do While Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\obj\x86\Debug\Do_While_Demo.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\obj\x86\Debug\Do_While_Demo.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.pdb
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap5\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap5\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap5\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.pdb
+D:\sovb12\Student Sample Programs\Chap5\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.exe
+D:\sovb12\Student Sample Programs\Chap5\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.xml
+D:\sovb12\Student Sample Programs\Chap5\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.pdb
+F:\student_sample_programs\Chap5\Do While Demo\Do While Demo\obj\x86\Debug\Do While Demo.exe

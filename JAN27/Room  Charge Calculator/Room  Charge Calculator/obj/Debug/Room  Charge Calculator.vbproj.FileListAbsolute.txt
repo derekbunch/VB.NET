@@ -1,0 +1,14 @@
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\bin\Debug\Room  Charge Calculator.exe.config
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\bin\Debug\Room  Charge Calculator.exe
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\bin\Debug\Room  Charge Calculator.pdb
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\bin\Debug\Room  Charge Calculator.xml
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\obj\Debug\Room__Charge_Calculator.Form1.resources
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\obj\Debug\Room__Charge_Calculator.Resources.resources
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\obj\Debug\Room  Charge Calculator.vbproj.GenerateResource.Cache
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\obj\Debug\Room  Charge Calculator.exe
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\obj\Debug\Room  Charge Calculator.xml
+E:\JAN27\Room  Charge Calculator\Room  Charge Calculator\obj\Debug\Room  Charge Calculator.pdb
+F:\JAN27\Room  Charge Calculator\Room  Charge Calculator\bin\Debug\Room  Charge Calculator.exe.config
+F:\JAN27\Room  Charge Calculator\Room  Charge Calculator\obj\Debug\Room  Charge Calculator.exe
+F:\JAN27\Room  Charge Calculator\Room  Charge Calculator\obj\Debug\Room  Charge Calculator.xml
+F:\JAN27\Room  Charge Calculator\Room  Charge Calculator\obj\Debug\Room  Charge Calculator.pdb

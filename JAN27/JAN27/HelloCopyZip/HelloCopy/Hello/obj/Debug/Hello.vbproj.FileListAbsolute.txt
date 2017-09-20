@@ -1,0 +1,14 @@
+E:\JAN27\Hello\Hello\bin\Debug\Hello.exe.config
+E:\JAN27\Hello\Hello\bin\Debug\Hello.exe
+E:\JAN27\Hello\Hello\bin\Debug\Hello.pdb
+E:\JAN27\Hello\Hello\bin\Debug\Hello.xml
+E:\JAN27\Hello\Hello\obj\Debug\Hello.Form1.resources
+E:\JAN27\Hello\Hello\obj\Debug\Hello.Resources.resources
+E:\JAN27\Hello\Hello\obj\Debug\Hello.vbproj.GenerateResource.Cache
+E:\JAN27\Hello\Hello\obj\Debug\Hello.exe
+E:\JAN27\Hello\Hello\obj\Debug\Hello.xml
+E:\JAN27\Hello\Hello\obj\Debug\Hello.pdb
+E:\JAN27\HelloCopyZip\HelloCopy\Hello\bin\Debug\Hello.exe.config
+E:\JAN27\HelloCopyZip\HelloCopy\Hello\obj\Debug\Hello.exe
+E:\JAN27\HelloCopyZip\HelloCopy\Hello\obj\Debug\Hello.xml
+E:\JAN27\HelloCopyZip\HelloCopy\Hello\obj\Debug\Hello.pdb

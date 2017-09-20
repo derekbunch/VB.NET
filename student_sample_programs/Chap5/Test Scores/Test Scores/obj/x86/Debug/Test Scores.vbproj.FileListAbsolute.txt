@@ -1,0 +1,29 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\bin\Debug\Test Scores.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\bin\Debug\Test Scores.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\bin\Debug\Test Scores.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\obj\x86\Debug\Test_Scores.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\obj\x86\Debug\Test_Scores.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\obj\x86\Debug\Test Scores.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\obj\x86\Debug\Test Scores.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Test Scores\obj\x86\Debug\Test Scores.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Test Scores\Test Scores\obj\x86\Debug\Test Scores.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Test Scores\Test Scores\obj\x86\Debug\Test Scores.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Test Scores\Test Scores\obj\x86\Debug\Test Scores.pdb
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap5\Test Scores\Test Scores\obj\x86\Debug\Test Scores.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap5\Test Scores\Test Scores\obj\x86\Debug\Test Scores.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap5\Test Scores\Test Scores\obj\x86\Debug\Test Scores.pdb
+D:\sovb12\Chapt_05\examples\Test Scores\Test Scores\obj\x86\Debug\Test Scores.exe
+D:\sovb12\Chapt_05\examples\Test Scores\Test Scores\obj\x86\Debug\Test Scores.xml
+D:\sovb12\Chapt_05\examples\Test Scores\Test Scores\obj\x86\Debug\Test Scores.pdb
+D:\sovb12\Chapt_05\examples\Test Scores\Test Scores\bin\Debug\Test Scores.exe
+D:\sovb12\Chapt_05\examples\Test Scores\Test Scores\bin\Debug\Test Scores.pdb
+D:\sovb12\Chapt_05\examples\Test Scores\Test Scores\bin\Debug\Test Scores.xml
+D:\sovb12\Chapt_05\examples\Test Scores\Test Scores\obj\x86\Debug\Test_Scores.Form1.resources
+D:\sovb12\Chapt_05\examples\Test Scores\Test Scores\obj\x86\Debug\Test_Scores.Resources.resources
+D:\sovb12\Chapt_05\examples\Test Scores\Test Scores\obj\x86\Debug\Test Scores.vbproj.GenerateResource.Cache
+D:\sovb12\Student Sample Programs\Chap5\Test Scores\Test Scores\obj\x86\Debug\Test Scores.exe
+D:\sovb12\Student Sample Programs\Chap5\Test Scores\Test Scores\obj\x86\Debug\Test Scores.xml
+D:\sovb12\Student Sample Programs\Chap5\Test Scores\Test Scores\obj\x86\Debug\Test Scores.pdb

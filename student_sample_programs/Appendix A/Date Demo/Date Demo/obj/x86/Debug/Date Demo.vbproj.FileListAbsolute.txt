@@ -1,0 +1,14 @@
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\bin\Debug\Date Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\bin\Debug\Date Demo.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\bin\Debug\Date Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\obj\x86\Debug\Date_Demo.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\obj\x86\Debug\Date_Demo.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\obj\x86\Debug\Date Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\obj\x86\Debug\Date Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Date Demo\Date Demo\obj\x86\Debug\Date Demo.pdb
+D:\sovb12\Student Sample Programs\Appendix A\Date Demo\Date Demo\obj\x86\Debug\Date Demo.exe
+D:\sovb12\Student Sample Programs\Appendix A\Date Demo\Date Demo\obj\x86\Debug\Date Demo.xml
+D:\sovb12\Student Sample Programs\Appendix A\Date Demo\Date Demo\obj\x86\Debug\Date Demo.pdb

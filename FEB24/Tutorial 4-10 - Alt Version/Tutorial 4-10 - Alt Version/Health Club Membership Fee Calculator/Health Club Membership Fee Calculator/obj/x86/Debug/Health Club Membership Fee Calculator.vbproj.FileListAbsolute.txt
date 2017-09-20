@@ -1,0 +1,68 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+D:\sovb12\Chapt_04\finished_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+D:\sovb12\Chapt_04\finished_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+D:\sovb12\Chapt_04\finished_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+D:\sovb12\Chapt_04\finished_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe
+D:\sovb12\Chapt_04\finished_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.pdb
+D:\sovb12\Chapt_04\finished_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.xml
+D:\sovb12\Chapt_04\finished_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Form1.resources
+D:\sovb12\Chapt_04\finished_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+D:\sovb12\Chapt_04\finished_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.vbproj.GenerateResource.Cache
+D:\sovb12\Chapt_04\ch04_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+D:\sovb12\Chapt_04\ch04_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+D:\sovb12\Chapt_04\ch04_tutorials\Tutorial 4-10\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+D:\sovb12\Chapt_04\ch04_tutorials\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+D:\sovb12\Chapt_04\ch04_tutorials\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+D:\sovb12\Chapt_04\ch04_tutorials\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+D:\sovb12\instructor\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+D:\sovb12\instructor\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+D:\sovb12\instructor\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+D:\sovb12\instructor\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe
+D:\sovb12\instructor\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.pdb
+D:\sovb12\instructor\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.xml
+D:\sovb12\instructor\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Form1.resources
+D:\sovb12\instructor\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+D:\sovb12\instructor\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.vbproj.GenerateResource.Cache
+D:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+D:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+D:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+D:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe
+D:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.pdb
+D:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.xml
+D:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Form1.resources
+D:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+D:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.vbproj.GenerateResource.Cache
+H:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+H:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+H:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+H:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe
+H:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.pdb
+H:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.xml
+H:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Form1.resources
+H:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+H:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.vbproj.GenerateResource.Cache
+E:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+E:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+E:\CIS2324 SP15\From Fall 2014\Gaddis6e\finished_tutorials\ch04\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+F:\FEB24\Tutorial 4-10 - Alt Version\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.exe
+F:\FEB24\Tutorial 4-10 - Alt Version\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.xml
+F:\FEB24\Tutorial 4-10 - Alt Version\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.pdb
+F:\FEB24\Tutorial 4-10 - Alt Version\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe
+F:\FEB24\Tutorial 4-10 - Alt Version\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.pdb
+F:\FEB24\Tutorial 4-10 - Alt Version\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.xml
+F:\FEB24\Tutorial 4-10 - Alt Version\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Form1.resources
+F:\FEB24\Tutorial 4-10 - Alt Version\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+F:\FEB24\Tutorial 4-10 - Alt Version\Tutorial 4-10 - Alt Version\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\x86\Debug\Health Club Membership Fee Calculator.vbproj.GenerateResource.Cache

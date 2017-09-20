@@ -1,0 +1,23 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\bin\Debug\Structure File WriteLine Demo.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\bin\Debug\Structure File WriteLine Demo.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\bin\Debug\Structure File WriteLine Demo.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\obj\x86\Debug\Structure_File_WriteLine_Demo.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\obj\x86\Debug\Structure_File_WriteLine_Demo.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.pdb
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap9\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.exe
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap9\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.xml
+C:\Users\Tony\Documents\Books\VB\VB 5th Edition\Student Sample Programs\Chap9\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.pdb
+D:\sovb12\Chapt_09\examples\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.exe
+D:\sovb12\Chapt_09\examples\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.xml
+D:\sovb12\Chapt_09\examples\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.pdb
+D:\sovb12\Student Sample Programs\Chap9\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.exe
+D:\sovb12\Student Sample Programs\Chap9\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.xml
+D:\sovb12\Student Sample Programs\Chap9\Structure File WriteLine Demo\Structure File WriteLine Demo\obj\x86\Debug\Structure File WriteLine Demo.pdb

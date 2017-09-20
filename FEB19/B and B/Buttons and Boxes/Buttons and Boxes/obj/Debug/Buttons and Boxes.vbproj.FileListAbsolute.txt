@@ -1,0 +1,14 @@
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\bin\Debug\Buttons and Boxes.exe.config
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\bin\Debug\Buttons and Boxes.exe
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\bin\Debug\Buttons and Boxes.pdb
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\bin\Debug\Buttons and Boxes.xml
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\obj\Debug\Buttons_and_Boxes.Form1.resources
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\obj\Debug\Buttons_and_Boxes.Resources.resources
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\obj\Debug\Buttons and Boxes.vbproj.GenerateResource.Cache
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\obj\Debug\Buttons and Boxes.exe
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\obj\Debug\Buttons and Boxes.xml
+F:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\obj\Debug\Buttons and Boxes.pdb
+E:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\bin\Debug\Buttons and Boxes.exe.config
+E:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\obj\Debug\Buttons and Boxes.exe
+E:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\obj\Debug\Buttons and Boxes.xml
+E:\FEB19\B and B\Buttons and Boxes\Buttons and Boxes\obj\Debug\Buttons and Boxes.pdb

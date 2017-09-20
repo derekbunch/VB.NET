@@ -1,0 +1,20 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\bin\Debug\Error3.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\bin\Debug\Error3.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\bin\Debug\Error3.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\obj\x86\Debug\Error3.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\obj\x86\Debug\Error3.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\obj\x86\Debug\Error3.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\obj\x86\Debug\Error3.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Error3\obj\x86\Debug\Error3.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Error3\Error3\obj\x86\Debug\Error3.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Error3\Error3\obj\x86\Debug\Error3.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Error3\Error3\obj\x86\Debug\Error3.pdb
+D:\sovb12\Student Sample Programs\Chap3\Error3\Error3\obj\x86\Debug\Error3.exe
+D:\sovb12\Student Sample Programs\Chap3\Error3\Error3\obj\x86\Debug\Error3.xml
+D:\sovb12\Student Sample Programs\Chap3\Error3\Error3\obj\x86\Debug\Error3.pdb
+D:\sovb12\Student Sample Programs\Chap3\Error3\Error3\obj\x86\Debug\Error3.Form1.resources
+D:\sovb12\Student Sample Programs\Chap3\Error3\Error3\obj\x86\Debug\Error3.Resources.resources
+D:\sovb12\Student Sample Programs\Chap3\Error3\Error3\obj\x86\Debug\Error3.vbproj.GenerateResource.Cache

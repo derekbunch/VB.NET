@@ -1,0 +1,32 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\bin\Debug\Wage Calculator.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\bin\Debug\Wage Calculator.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\bin\Debug\Wage Calculator.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\Wage_Calculator.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\Wage_Calculator.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\Wage Calculator.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\Wage Calculator.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\Wage Calculator\obj\x86\Debug\Wage Calculator.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.pdb
+D:\sovb12\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.exe
+D:\sovb12\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.xml
+D:\sovb12\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.pdb
+D:\sovb12\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.exe
+D:\sovb12\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.pdb
+D:\sovb12\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.xml
+D:\sovb12\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Form1.resources
+D:\sovb12\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Resources.resources
+D:\sovb12\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.vbproj.GenerateResource.Cache
+B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.exe
+B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.xml
+B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.pdb
+B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.exe
+B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.pdb
+B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\bin\Debug\Wage Calculator.xml
+B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Form1.resources
+B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Resources.resources
+B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.vbproj.GenerateResource.Cache

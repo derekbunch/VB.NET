@@ -1,0 +1,12 @@
+D:\sovb12\Chapt_09\examples\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.exe
+D:\sovb12\Chapt_09\examples\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.pdb
+D:\sovb12\Chapt_09\examples\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.xml
+D:\sovb12\Chapt_09\examples\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Form1.resources
+D:\sovb12\Chapt_09\examples\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Resources.resources
+D:\sovb12\Chapt_09\examples\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.vbproj.GenerateResource.Cache
+D:\sovb12\Chapt_09\examples\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.exe
+D:\sovb12\Chapt_09\examples\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.xml
+D:\sovb12\Chapt_09\examples\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.pdb
+D:\sovb12\Student Sample Programs\Chap9\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.exe
+D:\sovb12\Student Sample Programs\Chap9\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.xml
+D:\sovb12\Student Sample Programs\Chap9\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.pdb

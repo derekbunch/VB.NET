@@ -1,0 +1,9 @@
+F:\student_sample_programs\Chap8\Simple Payroll\Simple Payroll\bin\Debug\Simple Payroll.exe
+F:\student_sample_programs\Chap8\Simple Payroll\Simple Payroll\bin\Debug\Simple Payroll.pdb
+F:\student_sample_programs\Chap8\Simple Payroll\Simple Payroll\bin\Debug\Simple Payroll.xml
+F:\student_sample_programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple_Payroll.Form1.resources
+F:\student_sample_programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple_Payroll.Resources.resources
+F:\student_sample_programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.vbproj.GenerateResource.Cache
+F:\student_sample_programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.exe
+F:\student_sample_programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.xml
+F:\student_sample_programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.pdb

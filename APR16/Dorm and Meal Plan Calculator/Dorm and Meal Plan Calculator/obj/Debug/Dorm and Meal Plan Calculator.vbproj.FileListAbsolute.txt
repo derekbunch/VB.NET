@@ -1,0 +1,11 @@
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe.config
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Form1.resources
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Meal_Plans.resources
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Resources.resources
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.vbproj.GenerateResource.Cache
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.pdb
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.xml
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.exe
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.xml
+F:\APR16\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.pdb

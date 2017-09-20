@@ -1,0 +1,11 @@
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\bin\Debug\twoformapp.exe.config
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\obj\Debug\twoformapp.MainForm.resources
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\obj\Debug\twoformapp.Resources.resources
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\obj\Debug\twoformapp.WelcomeForm.resources
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\obj\Debug\twoformapp.vbproj.GenerateResource.Cache
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\bin\Debug\twoformapp.exe
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\bin\Debug\twoformapp.pdb
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\bin\Debug\twoformapp.xml
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\obj\Debug\twoformapp.exe
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\obj\Debug\twoformapp.xml
+F:\student_sample_programs\Chap7\appth9a\twoformapp\twoformapp\obj\Debug\twoformapp.pdb

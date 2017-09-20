@@ -1,0 +1,10 @@
+F:\Misc\ExamplesTst2\ExamplesTst2\bin\Debug\ExamplesTst2.exe.config
+F:\Misc\ExamplesTst2\ExamplesTst2\bin\Debug\ExamplesTst2.exe
+F:\Misc\ExamplesTst2\ExamplesTst2\bin\Debug\ExamplesTst2.pdb
+F:\Misc\ExamplesTst2\ExamplesTst2\bin\Debug\ExamplesTst2.xml
+F:\Misc\ExamplesTst2\ExamplesTst2\obj\Debug\ExamplesTst2.Form1.resources
+F:\Misc\ExamplesTst2\ExamplesTst2\obj\Debug\ExamplesTst2.Resources.resources
+F:\Misc\ExamplesTst2\ExamplesTst2\obj\Debug\ExamplesTst2.vbproj.GenerateResource.Cache
+F:\Misc\ExamplesTst2\ExamplesTst2\obj\Debug\ExamplesTst2.exe
+F:\Misc\ExamplesTst2\ExamplesTst2\obj\Debug\ExamplesTst2.xml
+F:\Misc\ExamplesTst2\ExamplesTst2\obj\Debug\ExamplesTst2.pdb

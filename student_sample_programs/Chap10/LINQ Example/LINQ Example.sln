@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LINQ Example", "LINQ Example\LINQ Example.vbproj", "{EAC7E8C8-B1F8-4795-95F9-016138E3CA68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC7E8C8-B1F8-4795-95F9-016138E3CA68}.Debug|x86.ActiveCfg = Debug|x86
+		{EAC7E8C8-B1F8-4795-95F9-016138E3CA68}.Debug|x86.Build.0 = Debug|x86
+		{EAC7E8C8-B1F8-4795-95F9-016138E3CA68}.Release|x86.ActiveCfg = Release|x86
+		{EAC7E8C8-B1F8-4795-95F9-016138E3CA68}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
